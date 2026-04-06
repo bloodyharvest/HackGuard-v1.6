@@ -1,0 +1,7 @@
+rich
+requests
+psutil
+dnspython
+phonenumbers
+speedtest-cli
+pillow

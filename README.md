@@ -18,4 +18,6 @@ It focuses on **passive analysis**, **infrastructure inspection**, and **OPSEC-a
 - System & network utilities
 - Clean TUI with animated loading screens
 - No scrolling UI (single-screen design)
- 
+"# HackGuard-v1.6" 
+"# HackGuard-v1.6" 
+"# HackGuard-v1.6" 
