@@ -1,4 +1,4 @@
-# HackGuard
+# HackGuard Multitool
 
 HackGuard is a **defensive OSINT & network utility toolkit** written in Python.  
 It focuses on **passive analysis**, **infrastructure inspection**, and **OPSEC-aware helpers**.
