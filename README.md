@@ -3,12 +3,12 @@
 HackGuard is a **defensive OSINT & network utility toolkit** written in Python.  
 It focuses on **passive analysis**, **infrastructure inspection**, and **OPSEC-aware helpers**.
 
-> ⚠️ Educational and defensive use only.  
+>  Educational and defensive use only.  
 > No exploitation, no brute force, no unauthorized scanning.
 
 ---
 
-## ✨ Features
+##  Features
 
 - IP & domain intelligence
 - DNS, RDAP & TLS inspection
